@@ -1,5 +1,4 @@
 def lower_bound(lst, t):
-    left, right = 0, len(lst)
     s, e = 0, len(lst)
     while s < e:
         m = s + (e-s) // 2
