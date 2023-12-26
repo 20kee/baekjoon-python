@@ -1,2 +1,0 @@
-# baekjoon-python
-python baekjoon
